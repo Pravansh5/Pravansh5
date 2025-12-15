@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Pravansh Patel
 
-<!--
-**Pravansh5/Pravansh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Web Developer | Problem Solver | Tech Enthusiast | Continuous Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+🎓 Full-Stack Web Development graduate from **Masai School**  
+🧠 Passionate about building scalable, user-friendly web applications  
+🛠️ Experienced in authentication, REST APIs, and backend development  
+🤝 Enjoy collaborating in teams and solving real-world problems  
+🌱 Always learning new tools and improving my coding skills  
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**  
+- HTML, CSS, JavaScript  
+- React, Tailwind CSS  
+
+**Backend**  
+- Node.js, Express.js  
+
+**Database & Tools**  
+- Firebase, MongoDB  
+- Cloudinary  
+- Git, GitHub  
+
+---
+
+## 📊 GitHub Stats
+
+![Pravansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravanshpatel&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pravanshpatel&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravanshpatel&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pravanshpatel&theme=react-dark)
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 🧑‍💻 [GitHub](https://github.com/pravanshpatel)
+- 🌐 [Portfolio](https://your-portfolio-link)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
