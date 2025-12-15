@@ -16,19 +16,10 @@
 
 ## 🧰 Tech Stack
 
-**Frontend**  
-- HTML, CSS, JavaScript  
-- React, Tailwind CSS  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,firebase,mongodb,git,github,cloudinary" />
+</p>
 
-**Backend**  
-- Node.js, Express.js  
-
-**Database & Tools**  
-- Firebase, MongoDB  
-- Cloudinary  
-- Git, GitHub  
-
----
 
 ## 📊 GitHub Stats
 
