@@ -37,11 +37,36 @@
 
 ---
 
+
+
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🧑‍💻 [GitHub](https://github.com/pravanshpatel)
-- 🌐 [Portfolio](https://your-portfolio-link)
+<table>
+  <tr>
+    <td align="center" width="200">
+      💼 <br />
+      <b>LinkedIn</b><br /><br />
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+        Visit Profile
+      </a>
+    </td>
+    <td align="center" width="200">
+      🧑‍💻 <br />
+      <b>GitHub</b><br /><br />
+      <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+        View Repos
+      </a>
+    </td>
+    <td align="center" width="200">
+      🌐 <br />
+      <b>Portfolio</b><br /><br />
+      <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+        Visit Website
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
