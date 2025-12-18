@@ -46,21 +46,21 @@
     <td align="center" width="200">
       💼 <br />
       <b>LinkedIn</b><br /><br />
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <a href="https://www.linkedin.com/in/pravansh-patel/" target="_blank">
         Visit Profile
       </a>
     </td>
     <td align="center" width="200">
       🧑‍💻 <br />
       <b>GitHub</b><br /><br />
-      <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+      <a href="https://github.com/Pravansh5" target="_blank">
         View Repos
       </a>
     </td>
     <td align="center" width="200">
       🌐 <br />
       <b>Portfolio</b><br /><br />
-      <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+      <a href="https://portfolio-chi-smoky-28.vercel.app/" target="_blank">
         Visit Website
       </a>
     </td>
