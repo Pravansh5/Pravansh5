@@ -23,11 +23,11 @@
 
 ## 📊 GitHub Stats
 
-![Pravansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pravansh5&show_icons=true&theme=radical)
+![Pravansh's GitHub stats](https://pravansh-git-hub-stats.vercel.app/api?username=Pravansh5&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pravansh5&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravansh5&layout=compact&theme=radical)
+![Top Languages](https://pravansh-git-hub-stats.vercel.app/api/top-langs/?username=Pravansh5&layout=compact&theme=radical)
 
 ---
 
